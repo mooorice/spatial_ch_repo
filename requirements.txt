@@ -1,0 +1,10 @@
+geopandas
+ipykernel
+libpysal
+pandas
+numpy
+folium
+pandas
+sklearn
+seaborn
+matplotlib
